@@ -15,8 +15,9 @@ Welcome to my GitHub profile! I am a software engineering student pursuing a Hig
 ---
 ## My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmodMatheesha2003&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmodMatheesha2003&exclude_repo=AmodMatheesha2003&layout=compact&theme=dracula" alt="languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmodMatheesha2003&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+
 
 ## 📫 How to reach me
 
@@ -27,4 +28,5 @@ Welcome to my GitHub profile! I am a software engineering student pursuing a Hig
 
 ---
 
+ 
 ### Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
