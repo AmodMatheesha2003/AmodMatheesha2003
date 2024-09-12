@@ -1,32 +1,28 @@
 # 👋 Hi, I'm Amod Matheesha!
 
-Welcome to my GitHub profile! I am a software engineering student pursuing a Higher National Diploma in Software Engineering at the National Institute of Business Management (NIBM). Below are some of the projects I've worked on, along with my current skills.
+Welcome to my GitHub profile! I am a software engineering student pursuing a Higher National Diploma in Software Engineering at the National Institute of Business Management (NIBM).
 
 ## 🚀 Projects
 
-- [PizzaPlaza E-Commerce Website](https://github.com/AmodMatheesha2003/PizzaPlaza-Ecommerce-website)
-- 
+- [PizzaPlaza E-Commerce Website-REACT|Spring Boot](https://github.com/AmodMatheesha2003/PizzaPlaza-Ecommerce-website)
+- [Snakes and Ladders Game-JavaScript|HTML|CSS](https://github.com/AmodMatheesha2003/Snakes-and-Ladders-Game-using-JavaScript-HTML-and-CSS)
+- [Snakes and Ladders Game-CPP](https://github.com/AmodMatheesha2003/Snakes-and-Ladders-Game-using-CPP)
+- [Fire Fighting Robot-Arduino](https://github.com/AmodMatheesha2003/Fire-Fighting-Robot)
+- [Simple Chatting Application-Java](https://github.com/AmodMatheesha2003/Simple-Chatting-Application)
+- [Shoe Website-HTML|CSS|PHP](https://github.com/AmodMatheesha2003/Shoe-Website)
 
 ---
 ## My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmodMatheesha2003&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmodMatheesha2003&exclude_repo=AmodMatheesha2003&layout=compact&theme=dracula" alt="languages" />
-
-## 🛠️ Skills
-
-- **Languages**: Java, JavaScript, SQL, HTML, CSS
-- **Frameworks**: React, Spring Boot
-- **Databases**: MySQL, Oracle
-- **Tools**: Git, IntelliJ IDEA, Postman
-- **Other**: API Gateway, Microservices, REST APIs, Swagger
 
 ## 📫 How to reach me
 
-- **Email**: amod.matheesha@example.com
-- **LinkedIn**: [linkedin.com/in/amod-matheesha](https://www.linkedin.com/in/amod-matheesha)
-- **GitHub**: [github.com/AmodMatheesha2003](https://github.com/AmodMatheesha2003)
+- **Email**: amodmathisha@gmail.com
+- **LinkedIn**: [linkedin/AmodMatheesha](https://www.linkedin.com/in/amod-matheesha-a1a2a72a6/) 
+- **GitHub**: [github/AmodMatheesha](https://github.com/AmodMatheesha2003)
+- **YouTube**: [youtube/AmodMatheesha](https://www.youtube.com/@amodmatheesha)
 
 ---
 
