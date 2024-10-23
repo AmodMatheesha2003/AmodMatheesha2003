@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I am a software engineering student pursuing a Hig
 
 ## 🚀 Projects
 
+- [LMS Database Project|Oracle](https://github.com/AmodMatheesha2003/LMS-Database)
 - [PizzaPlaza E-Commerce Website REACT|Spring Boot](https://github.com/AmodMatheesha2003/PizzaPlaza-Ecommerce-website)
 - [Snakes and Ladders Game JavaScript|HTML|CSS](https://github.com/AmodMatheesha2003/Snakes-and-Ladders-Game-using-JavaScript-HTML-and-CSS)
 - [Snakes and Ladders Game C++](https://github.com/AmodMatheesha2003/Snakes-and-Ladders-Game-using-CPP)
