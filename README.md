@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a software engineering student pursuing a Hig
 
 ## 🚀 Projects
 
-- [Event Management System]([https://github.com/AmodMatheesha2003/LMS-Database](https://github.com/AmodMatheesha2003/event_booking_system))
+- [Event Management System](https://github.com/AmodMatheesha2003/event_booking_system)
 - [AI-Powered Plant Disease Detection Robot | IoT & Machine Learning](https://github.com/AmodMatheesha2003/plant-disease-detection-robot)
 - [Employee Attrition Prediction | Machine Learning](https://github.com/AmodMatheesha2003/employee-attrition-prediction-ml)
 - [LMS Database Project|Oracle](https://github.com/AmodMatheesha2003/LMS-Database)
